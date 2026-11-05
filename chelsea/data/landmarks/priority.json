@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "coordinateStatus": "unavailable-no-verified-source",
+  "locations": [
+    {
+      "id": "sloane-square",
+      "name": "Sloane Square",
+      "modelStatus": "unavailable",
+      "referenceStatus": "unavailable",
+      "walkable": false
+    },
+    {
+      "id": "duke-of-york-square",
+      "name": "Duke of York Square",
+      "modelStatus": "unavailable",
+      "referenceStatus": "unavailable",
+      "walkable": false
+    },
+    {
+      "id": "saatchi-gallery",
+      "name": "Saatchi Gallery exterior",
+      "modelStatus": "unavailable",
+      "referenceStatus": "unavailable",
+      "walkable": false
+    },
+    {
+      "id": "royal-hospital",
+      "name": "Royal Hospital Chelsea exterior",
+      "modelStatus": "unavailable",
+      "referenceStatus": "unavailable",
+      "walkable": false
+    },
+    {
+      "id": "physic-garden",
+      "name": "Chelsea Physic Garden perimeter",
+      "modelStatus": "unavailable",
+      "referenceStatus": "unavailable",
+      "walkable": false
+    },
+    {
+      "id": "old-church",
+      "name": "Chelsea Old Church exterior",
+      "modelStatus": "unavailable",
+      "referenceStatus": "unavailable",
+      "walkable": false
+    },
+    {
+      "id": "albert-bridge",
+      "name": "Albert Bridge",
+      "modelStatus": "unavailable",
+      "referenceStatus": "unavailable",
+      "walkable": false
+    },
+    {
+      "id": "battersea-bridge",
+      "name": "Battersea Bridge",
+      "modelStatus": "unavailable",
+      "referenceStatus": "unavailable",
+      "walkable": false
+    }
+  ]
+}

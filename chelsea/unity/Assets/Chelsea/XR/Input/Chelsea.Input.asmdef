@@ -1,0 +1,6 @@
+{
+  "name": "Chelsea.Input",
+  "rootNamespace": "Chelsea.Input",
+  "references": ["Chelsea.XR", "Chelsea.Runtime"],
+  "autoReferenced": true
+}

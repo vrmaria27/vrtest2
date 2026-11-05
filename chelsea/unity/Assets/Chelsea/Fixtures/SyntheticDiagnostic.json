@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 1,
+  "datasetKind": "synthetic-test-fixture",
+  "source": {
+    "sourceUrl": "urn:chelsea:original-synthetic-tests",
+    "licence": "CC0-1.0",
+    "snapshotDate": "2026-11-05",
+    "sha256": "288bf3b6f55af271dde806bcb5703e9568cfc0c264f17619808e79651795f9ff"
+  },
+  "boundarySha256": "c241ab772cde87fa2c1e2ce3071a52dd4faff38dfaaf3be27195bf696f867b4e",
+  "origin": {
+    "longitude": -0.1589,
+    "latitude": 51.4905
+  },
+  "coordinates": "WGS84 source; local equirectangular metres; Unity x=east,y=up,z=north; origin fixed; radius\u003C=5km",
+  "contentHash": "2a5f2c486f47e4a2e99a9a3d2ff9015159536d6919be2fbbda698690ccdddbfb",
+  "complete": false,
+  "meshes": [
+    {
+      "sourceId": "osm:way:3001",
+      "kind": "diagnostic-road-centerline",
+      "part": 0,
+      "vertices": [
+        {
+          "x": -76.24370201385608,
+          "y": 0,
+          "z": 0.2
+        },
+        {
+          "x": -76.24370201385608,
+          "y": 0,
+          "z": -0.2
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0.2
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": -0.2
+        }
+      ],
+      "triangles": [
+        0,
+        2,
+        1,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "sourceId": "osm:way:3001",
+      "kind": "diagnostic-road-centerline",
+      "part": 1,
+      "vertices": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0.2
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": -0.2
+        },
+        {
+          "x": 76.24370201385801,
+          "y": 0,
+          "z": 0.2
+        },
+        {
+          "x": 76.24370201385801,
+          "y": 0,
+          "z": -0.2
+        }
+      ],
+      "triangles": [
+        0,
+        2,
+        1,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "sourceId": "osm:way:3002",
+      "kind": "diagnostic-road-centerline",
+      "part": 0,
+      "vertices": [
+        {
+          "x": -0.2,
+          "y": 0,
+          "z": -77.9236435547144
+        },
+        {
+          "x": 0.2,
+          "y": 0,
+          "z": -77.9236435547144
+        },
+        {
+          "x": -0.2,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 0.2,
+          "y": 0,
+          "z": 0
+        }
+      ],
+      "triangles": [
+        0,
+        2,
+        1,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "sourceId": "osm:way:3002",
+      "kind": "diagnostic-road-centerline",
+      "part": 1,
+      "vertices": [
+        {
+          "x": -0.2,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 0.2,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": -0.2,
+          "y": 0,
+          "z": 77.92364355550538
+        },
+        {
+          "x": 0.2,
+          "y": 0,
+          "z": 77.92364355550538
+        }
+      ],
+      "triangles": [
+        0,
+        2,
+        1,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "sourceId": "osm:way:3003",
+      "kind": "diagnostic-road-centerline",
+      "part": 0,
+      "vertices": [
+        {
+          "x": -76.44370201385608,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": -76.04370201385608,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": -76.44370201385608,
+          "y": 0,
+          "z": 77.92364355550538
+        },
+        {
+          "x": -76.04370201385608,
+          "y": 0,
+          "z": 77.92364355550538
+        }
+      ],
+      "triangles": [
+        0,
+        2,
+        1,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "sourceId": "osm:way:4001",
+      "kind": "building-footprint-extrusion",
+      "part": 0,
+      "vertices": [
+        {
+          "x": 27.724982550494172,
+          "y": 0,
+          "z": -66.79169447580848
+        },
+        {
+          "x": 48.51871946336384,
+          "y": 0,
+          "z": -66.79169447580848
+        },
+        {
+          "x": 48.51871946336384,
+          "y": 0,
+          "z": -33.395847237508754
+        },
+        {
+          "x": 27.724982550494172,
+          "y": 0,
+          "z": -33.395847237508754
+        },
+        {
+          "x": 27.724982550494172,
+          "y": 8,
+          "z": -66.79169447580848
+        },
+        {
+          "x": 48.51871946336384,
+          "y": 8,
+          "z": -66.79169447580848
+        },
+        {
+          "x": 48.51871946336384,
+          "y": 8,
+          "z": -33.395847237508754
+        },
+        {
+          "x": 27.724982550494172,
+          "y": 8,
+          "z": -33.395847237508754
+        }
+      ],
+      "triangles": [
+        7,
+        5,
+        4,
+        3,
+        0,
+        1,
+        7,
+        6,
+        5,
+        3,
+        1,
+        2,
+        0,
+        4,
+        5,
+        0,
+        5,
+        1,
+        1,
+        5,
+        6,
+        1,
+        6,
+        2,
+        2,
+        6,
+        7,
+        2,
+        7,
+        3,
+        3,
+        7,
+        4,
+        3,
+        4,
+        0
+      ]
+    }
+  ],
+  "roads": [
+    {
+      "sourceId": "osm:way:3001",
+      "sourceCoordinates": [
+        {
+          "sourceId": "osm:node:1001",
+          "longitude": -0.16,
+          "latitude": 51.4905
+        },
+        {
+          "sourceId": "osm:node:1002",
+          "longitude": -0.1589,
+          "latitude": 51.4905
+        },
+        {
+          "sourceId": "osm:node:1003",
+          "longitude": -0.1578,
+          "latitude": 51.4905
+        }
+      ],
+      "highway": "residential",
+      "name": "Synthetic east-west line",
+      "pieces": [
+        {
+          "start": {
+            "x": -76.24370201385608,
+            "north": 0
+          },
+          "end": {
+            "x": 0,
+            "north": 0
+          },
+          "chunk": "-1:0"
+        },
+        {
+          "start": {
+            "x": 0,
+            "north": 0
+          },
+          "end": {
+            "x": 76.24370201385801,
+            "north": 0
+          },
+          "chunk": "0:0"
+        }
+      ],
+      "diagnosticWidthMetres": 0.4,
+      "widthEvidence": "presentation-only; not geographic road width",
+      "walkable": false,
+      "note": "Graph edges retain complete source node pairs; exterior endpoints are flagged. No access, layer, junction restriction, lane or safe teleport certification."
+    },
+    {
+      "sourceId": "osm:way:3002",
+      "sourceCoordinates": [
+        {
+          "sourceId": "osm:node:1004",
+          "longitude": -0.1589,
+          "latitude": 51.4898
+        },
+        {
+          "sourceId": "osm:node:1002",
+          "longitude": -0.1589,
+          "latitude": 51.4905
+        },
+        {
+          "sourceId": "osm:node:1005",
+          "longitude": -0.1589,
+          "latitude": 51.4912
+        }
+      ],
+      "highway": "residential",
+      "name": "Synthetic shared-node line",
+      "pieces": [
+        {
+          "start": {
+            "x": 0,
+            "north": -77.9236435547144
+          },
+          "end": {
+            "x": 0,
+            "north": 0
+          },
+          "chunk": "0:-1"
+        },
+        {
+          "start": {
+            "x": 0,
+            "north": 0
+          },
+          "end": {
+            "x": 0,
+            "north": 77.92364355550538
+          },
+          "chunk": "0:0"
+        }
+      ],
+      "diagnosticWidthMetres": 0.4,
+      "widthEvidence": "presentation-only; not geographic road width",
+      "walkable": false,
+      "note": "Graph edges retain complete source node pairs; exterior endpoints are flagged. No access, layer, junction restriction, lane or safe teleport certification."
+    },
+    {
+      "sourceId": "osm:way:3003",
+      "sourceCoordinates": [
+        {
+          "sourceId": "osm:node:1006",
+          "longitude": -0.16,
+          "latitude": 51.4905
+        },
+        {
+          "sourceId": "osm:node:1007",
+          "longitude": -0.16,
+          "latitude": 51.4912
+        }
+      ],
+      "highway": "service",
+      "name": "Synthetic coincident-coordinate disconnected line",
+      "pieces": [
+        {
+          "start": {
+            "x": -76.24370201385608,
+            "north": 0
+          },
+          "end": {
+            "x": -76.24370201385608,
+            "north": 77.92364355550538
+          },
+          "chunk": "-1:0"
+        }
+      ],
+      "diagnosticWidthMetres": 0.4,
+      "widthEvidence": "presentation-only; not geographic road width",
+      "walkable": false,
+      "note": "Graph edges retain complete source node pairs; exterior endpoints are flagged. No access, layer, junction restriction, lane or safe teleport certification."
+    }
+  ],
+  "buildings": [
+    {
+      "sourceId": "osm:way:4001",
+      "sourceCoordinates": [
+        {
+          "sourceId": "osm:node:2001",
+          "longitude": -0.1585,
+          "latitude": 51.4899
+        },
+        {
+          "sourceId": "osm:node:2002",
+          "longitude": -0.1582,
+          "latitude": 51.4899
+        },
+        {
+          "sourceId": "osm:node:2003",
+          "longitude": -0.1582,
+          "latitude": 51.4902
+        },
+        {
+          "sourceId": "osm:node:2004",
+          "longitude": -0.1585,
+          "latitude": 51.4902
+        },
+        {
+          "sourceId": "osm:node:2001",
+          "longitude": -0.1585,
+          "latitude": 51.4899
+        }
+      ],
+      "heightMetres": 8,
+      "heightEvidence": "source-height-tag; unverified measurement",
+      "roof": "unavailable",
+      "chunk": "0:-1",
+      "note": "Footprint extrusion only; not a researched facade, terrain elevation, landmark silhouette or measured height."
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "sourceId": "osm:node:1001",
+        "longitude": -0.16,
+        "latitude": 51.4905,
+        "position": {
+          "x": -76.24370201385608,
+          "north": 0
+        },
+        "insideBoundary": true
+      },
+      {
+        "sourceId": "osm:node:1002",
+        "longitude": -0.1589,
+        "latitude": 51.4905,
+        "position": {
+          "x": 0,
+          "north": 0
+        },
+        "insideBoundary": true
+      },
+      {
+        "sourceId": "osm:node:1003",
+        "longitude": -0.1578,
+        "latitude": 51.4905,
+        "position": {
+          "x": 76.24370201385801,
+          "north": 0
+        },
+        "insideBoundary": true
+      },
+      {
+        "sourceId": "osm:node:1004",
+        "longitude": -0.1589,
+        "latitude": 51.4898,
+        "position": {
+          "x": 0,
+          "north": -77.9236435547144
+        },
+        "insideBoundary": true
+      },
+      {
+        "sourceId": "osm:node:1005",
+        "longitude": -0.1589,
+        "latitude": 51.4912,
+        "position": {
+          "x": 0,
+          "north": 77.92364355550538
+        },
+        "insideBoundary": true
+      },
+      {
+        "sourceId": "osm:node:1006",
+        "longitude": -0.16,
+        "latitude": 51.4905,
+        "position": {
+          "x": -76.24370201385608,
+          "north": 0
+        },
+        "insideBoundary": true
+      },
+      {
+        "sourceId": "osm:node:1007",
+        "longitude": -0.16,
+        "latitude": 51.4912,
+        "position": {
+          "x": -76.24370201385608,
+          "north": 77.92364355550538
+        },
+        "insideBoundary": true
+      }
+    ],
+    "edges": [
+      {
+        "from": "osm:node:1001",
+        "to": "osm:node:1002",
+        "sourceId": "osm:way:3001",
+        "lengthMetres": 76.24370201385608,
+        "oneway": "unspecified",
+        "access": "unspecified"
+      },
+      {
+        "from": "osm:node:1002",
+        "to": "osm:node:1003",
+        "sourceId": "osm:way:3001",
+        "lengthMetres": 76.24370201385801,
+        "oneway": "unspecified",
+        "access": "unspecified"
+      },
+      {
+        "from": "osm:node:1004",
+        "to": "osm:node:1002",
+        "sourceId": "osm:way:3002",
+        "lengthMetres": 77.9236435547144,
+        "oneway": "yes",
+        "access": "unspecified"
+      },
+      {
+        "from": "osm:node:1002",
+        "to": "osm:node:1005",
+        "sourceId": "osm:way:3002",
+        "lengthMetres": 77.92364355550538,
+        "oneway": "yes",
+        "access": "unspecified"
+      },
+      {
+        "from": "osm:node:1006",
+        "to": "osm:node:1007",
+        "sourceId": "osm:way:3003",
+        "lengthMetres": 77.92364355550538,
+        "oneway": "unspecified",
+        "access": "unspecified"
+      }
+    ],
+    "connectedComponents": 2,
+    "interpretation": "Undirected source-node topology diagnostic only; grade, access and restrictions are not validated. Coincident coordinates never create a junction."
+  },
+  "summary": {
+    "importedRoads": 3,
+    "importedBuildings": 1,
+    "meshCount": 6,
+    "vertexCount": 28,
+    "triangleCount": 22,
+    "ignoredNonRoadBuildingWays": 0,
+    "outsideWays": 0,
+    "unsupportedRelations": 1
+  },
+  "warnings": [
+    "All road ribbons are diagnostic centerlines, not pavements, traffic lanes or walkable surfaces.",
+    "Building extrusion heights are source tag claims or explicit estimates, never surveyed accuracy or landmark completion.",
+    "SYNTHETIC TEST FIXTURE: not Chelsea geography. Do not ship as a replica or use for accuracy review.",
+    "Terrain, relation geometry, land-use polygons, pedestrian access, layers, turn restrictions, lane placement, and facade research are not implemented.",
+    "Unsupported relation osm:relation:9001; multipolygons, restrictions and relation geometry require review. Dataset completeness is blocked."
+  ]
+}

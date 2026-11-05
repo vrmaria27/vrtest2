@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "status": "blocked",
+  "observedAt": "2026-11-05",
+  "source": "OpenStreetMap",
+  "attemptedUrl": "https://api.openstreetmap.org/api/0.6/map?bbox=-0.164,51.487,-0.155,51.493",
+  "result": "Proxy CONNECT 403; no response body or geodata acquired",
+  "snapshotFrozen": false,
+  "sha256": null,
+  "licence": "ODbL-1.0; attribution and database obligations apply to acquired derivatives",
+  "nextAction": "Apply saved network domains, download a bounded raw extract, record timestamp/hash and reviewed coverage before real import"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "properties": {
+    "id": "synthetic-test-boundary",
+    "status": "synthetic-test-fixture",
+    "note": "A rectangle for deterministic unit/integration tests only. Not the Chelsea study boundary."
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [[[-0.161,51.489],[-0.157,51.489],[-0.157,51.492],[-0.161,51.492],[-0.161,51.489]]]
+  }
+}

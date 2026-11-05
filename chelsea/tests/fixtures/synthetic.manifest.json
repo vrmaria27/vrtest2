@@ -1,0 +1,8 @@
+{
+  "datasetKind": "synthetic-test-fixture",
+  "licence": "CC0-1.0",
+  "sourceUrl": "urn:chelsea:original-synthetic-tests",
+  "snapshotDate": "2026-11-05",
+  "sha256": "288bf3b6f55af271dde806bcb5703e9568cfc0c264f17619808e79651795f9ff",
+  "note": "Original synthetic fixture; not Chelsea geography or a source accuracy baseline."
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Chelsea.Runtime",
+  "rootNamespace": "Chelsea.Runtime",
+  "references": ["Chelsea.World", "Chelsea.XR"],
+  "autoReferenced": true
+}

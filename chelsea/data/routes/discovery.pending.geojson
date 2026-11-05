@@ -1,0 +1,6 @@
+{
+  "type": "FeatureCollection",
+  "status": "unavailable",
+  "reason": "No verified source graph, public pavements or access review. No route or teleport targets authored.",
+  "features": []
+}

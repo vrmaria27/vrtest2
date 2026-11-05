@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Chelsea synthetic test fixture; NOT real geography">
+  <node id="1001" lon="-0.1600" lat="51.4905" />
+  <node id="1002" lon="-0.1589" lat="51.4905" />
+  <node id="1003" lon="-0.1578" lat="51.4905" />
+  <node id="1004" lon="-0.1589" lat="51.4898" />
+  <node id="1005" lon="-0.1589" lat="51.4912" />
+  <node id="1006" lon="-0.1600" lat="51.4905" />
+  <node id="1007" lon="-0.1600" lat="51.4912" />
+  <node id="2001" lon="-0.1585" lat="51.4899" />
+  <node id="2002" lon="-0.1582" lat="51.4899" />
+  <node id="2003" lon="-0.1582" lat="51.4902" />
+  <node id="2004" lon="-0.1585" lat="51.4902" />
+  <way id="3001"><nd ref="1001"/><nd ref="1002"/><nd ref="1003"/>
+    <tag k="highway" v="residential"/><tag k="name" v="Synthetic east-west line"/>
+  </way>
+  <way id="3002"><nd ref="1004"/><nd ref="1002"/><nd ref="1005"/>
+    <tag k="highway" v="residential"/><tag k="name" v="Synthetic shared-node line"/><tag k="oneway" v="yes"/>
+  </way>
+  <way id="3003"><nd ref="1006"/><nd ref="1007"/>
+    <tag k="highway" v="service"/><tag k="name" v="Synthetic coincident-coordinate disconnected line"/>
+  </way>
+  <way id="4001"><nd ref="2001"/><nd ref="2002"/><nd ref="2003"/><nd ref="2004"/><nd ref="2001"/>
+    <tag k="building" v="yes"/><tag k="height" v="8 m"/>
+  </way>
+  <relation id="9001"><member type="way" ref="4001" role="outer"/><tag k="type" v="multipolygon"/></relation>
+</osm>

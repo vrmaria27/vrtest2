@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "duke-of-york-aoi-v0",
+        "status": "proposed-unreviewed",
+        "purpose": "candidate import/review AOI, not a verified walking circuit",
+        "routeGate": "select contiguous 300-500m public walking circuit only after source review"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.1608,
+              51.4917
+            ],
+            [
+              -0.1596,
+              51.4923
+            ],
+            [
+              -0.1567,
+              51.4914
+            ],
+            [
+              -0.1567,
+              51.4895
+            ],
+            [
+              -0.1587,
+              51.4891
+            ],
+            [
+              -0.1608,
+              51.4901
+            ],
+            [
+              -0.1608,
+              51.4917
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

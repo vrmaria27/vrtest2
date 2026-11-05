@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chelsea-study-v0",
+        "status": "proposed-unreviewed",
+        "author": "project scope interpretation",
+        "coordinateEvidence": "hand-authored approximate design boundary; not surveyed or traced",
+        "approval": "pending source and human review",
+        "southBankPolicy": "river context only; no south-bank roads/buildings imported",
+        "releaseCoverage": "not a release coverage claim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.176,
+              51.4858
+            ],
+            [
+              -0.1714,
+              51.4879
+            ],
+            [
+              -0.1662,
+              51.4902
+            ],
+            [
+              -0.16,
+              51.4932
+            ],
+            [
+              -0.1559,
+              51.4941
+            ],
+            [
+              -0.1524,
+              51.4927
+            ],
+            [
+              -0.1513,
+              51.4878
+            ],
+            [
+              -0.1529,
+              51.4842
+            ],
+            [
+              -0.16,
+              51.4819
+            ],
+            [
+              -0.1668,
+              51.4807
+            ],
+            [
+              -0.1738,
+              51.4807
+            ],
+            [
+              -0.175,
+              51.4832
+            ],
+            [
+              -0.176,
+              51.4858
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

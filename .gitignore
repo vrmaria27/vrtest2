@@ -1,0 +1,25 @@
+# .NET and local tools
+**/bin/
+**/obj/
+.tools/
+# Unity transient/generated state
+**/Library/
+**/Temp/
+**/Obj/
+**/Logs/
+**/UserSettings/
+**/Builds/
+**/MemoryCaptures/
+**/Recordings/
+# Generated/import outputs and local source extracts
+chelsea/data/processed/*
+!chelsea/data/processed/README.md
+chelsea/data/source_local/
+chelsea/unity/Assets/Chelsea/Generated/
+chelsea/unity/Assets/Chelsea/Generated.meta
+*.csproj.user
+.DS_Store
+
+# Python tooling caches
+__pycache__/
+*.py[cod]
